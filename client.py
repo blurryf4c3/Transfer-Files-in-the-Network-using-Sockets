@@ -9,7 +9,7 @@ host = "173.255.217.183"
 # the port, let's use 5001
 port = 5001
 # the name of file we want to send, make sure it exists
-filename = "data.csv"
+filename = "new.zip"
 # get the file size
 filesize = os.path.getsize(filename)
 # create the client socket
